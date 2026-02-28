@@ -19,3 +19,8 @@ body {
   background-image: url(https://microslush.com/wp-content/uploads/2022/09/image2-scaled.webp);
   background-size: cover;
 }
+a {
+        font-size: 0.5em;
+        text-decoration: none;
+        color: white;
+      }
