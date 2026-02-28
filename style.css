@@ -3,3 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.page {
+  background-image: url(https://microslush.com/wp-content/uploads/2022/09/image2-scaled.web);
+  background-size: cover;
+}
