@@ -48,14 +48,24 @@ a {
 }
 
 .hero {
+  font-family: "ProximaNovaB", Sans-serif;
+  position: relative;
+  top: 20px;
   max-width: 40vw;
   gap: 5px;
 }
 .hero__title {
+  font-size: 65px;
+  font-weight: 700;
+  margin-bottom: 25px;
+  line-height: 72px;
   margin-bottom: 25px;
 }
 .hero__description {
   margin-bottom: 70px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
 }
 .header__nav :nth-child(5) {
   background-color: #007bff;
