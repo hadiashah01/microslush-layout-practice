@@ -16,6 +16,8 @@ body {
 .flex--column {
   flex-direction: column;
   justify-content: flex-start;
+  align-items: flex-start;
+  gap: 2em;
 }
 .header__nav {
   margin-left: 2.5em;
@@ -46,12 +48,12 @@ a {
 }
 
 .hero {
-        max-width: 40vw;
-        gap: 5px;
+  max-width: 40vw;
+  gap: 5px;
 }
 .hero__title {
-        margin-bottom: 25px;
-      }
-      .hero__description {
-        margin-bottom: 70px; 
-      }
+  margin-bottom: 25px;
+}
+.hero__description {
+  margin-bottom: 70px;
+}
