@@ -102,8 +102,10 @@ a {
   left: 60px;
   background-color: white;
   list-style-type: none;
-  width: 250px;
-  height: 205px;
+  width:fit-content;
+  height: fit-content;
+  column-gap: 15px;
+  max-height: 250px;
   font-size: 0.8em;
   font-weight: 100;
   font-family: "Poppins", sans-serif;
