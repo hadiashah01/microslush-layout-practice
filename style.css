@@ -91,8 +91,17 @@ a {
   align-items: center;
 }
 .nav-item-dropdown {
+  /* display: none; */
   position: absolute;
   top: 100%;
   left: 60px;
   background-color: white;
+  list-style-type: none;
+  width: 250px;
+  height: 200px;
+  padding-inline: 25px;
+  padding-block: 10px;
+}
+.nav-item-dropdown a {
+ color: #051441;
 }
