@@ -63,9 +63,12 @@ a {
   padding-inline: 18px;
   padding-block: 8px;
 }
-      .hero__contact-btn {
-        padding-inline: 25px;
-        padding-block: 10px;
-        color: white;
-        background-color: #1a61ff;
-      }
+.hero__contact-btn {
+  padding-inline: 25px;
+  padding-block: 10px;
+  color: white;
+  background-color: #1a61ff;
+  border-radius: 7px;
+  border-color: #4a7df2;
+  font-size: 20px;
+}
