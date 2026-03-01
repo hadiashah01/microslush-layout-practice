@@ -13,6 +13,12 @@ body {
   display: flex;
   justify-content: space-around;
 }
+.header__nav {
+  list-style-type: none;
+  gap: 38px;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+}
 .viewport {
   width: 100%;
   height: 100vh;
