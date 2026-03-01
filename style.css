@@ -29,17 +29,29 @@ body {
   height: 100vh;
 }
 header {
-        gap: 5em;
-        margin-top: 1.25em;
-      }
+  gap: 5em;
+  padding-top: 1.25em;
+}
 
 .page {
   padding-inline: 3em;
   background-image: url(https://microslush.com/wp-content/uploads/2022/09/image2-scaled.webp);
   background-size: cover;
+  background-position: center;
 }
 a {
   font-size: 0.5em;
   text-decoration: none;
   color: white;
 }
+
+.hero {
+        max-width: 40vw;
+        gap: 5px;
+}
+.hero__title {
+        margin-bottom: 25px;
+      }
+      .hero__description {
+        margin-bottom: 70px; 
+      }
