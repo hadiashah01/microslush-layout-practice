@@ -57,3 +57,9 @@ a {
 .hero__description {
   margin-bottom: 70px;
 }
+.header__nav :nth-child(5) {
+  background-color: #007bff;
+  border-radius: 4px;
+  padding-inline: 18px;
+  padding-block: 8px;
+}
