@@ -90,7 +90,11 @@ a {
   align-items: center;
 }
 .nav-item-dropdown {
-  /* display: none; */
+  display: none;
+}
+
+.header__nav-item--has-dropdown:hover .nav-item-dropdown {
+  display: block;
   position: absolute;
   top: 100%;
   left: 60px;
