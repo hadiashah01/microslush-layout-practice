@@ -18,7 +18,6 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-
 }
 .header__nav {
   margin-left: 2.5em;
@@ -98,12 +97,12 @@ a {
   background-color: white;
   list-style-type: none;
   width: 250px;
-  height: 200px;
-  font-size:0.8em; 
-  font-family: "Poppins",sans-serif;  
-  padding-inline: 25px;
+  height: 205px;
+  font-size: 0.8em;
+  font-family: "Poppins", sans-serif;
+  padding-inline: 20px;
   padding-block: 10px;
 }
 .nav-item-dropdown a {
- color: #051441;
+  color: #051441;
 }
