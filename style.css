@@ -37,7 +37,9 @@ header {
   gap: 5em;
   padding-top: 1.25em;
 }
-
+.container {
+   padding-inline: 3em;
+}
 .page {
   padding-inline: 3em;
   background-image: url(https://microslush.com/wp-content/uploads/2022/09/image2-scaled.webp);
@@ -122,7 +124,17 @@ a {
 }
 .stats__item {
    align-items: center;
+   font-family: Arial sans-serif;
+font-size: 30px;
 }
 .stats__title {
   margin-right: 5px;
+ 
+  color: #060a24;
+  font-weight: lighter;
+  line-height: 60px;
+}
+.stats__count {
+  color: #3E11CF;
+  font-weight: 540;
 }
