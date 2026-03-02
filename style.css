@@ -38,7 +38,7 @@ header {
   padding-top: 1.25em;
 }
 .container {
-   padding-inline: 3em;
+  padding-inline: 3em;
 }
 .page {
   padding-inline: 3em;
@@ -74,7 +74,7 @@ a {
   font-weight: 400;
   line-height: 32px;
 }
-.header__nav>.header__nav-item:last-child {
+.header__nav > .header__nav-item:last-child {
   background-color: #007bff;
   border-radius: 4px;
   padding-inline: 18px;
@@ -105,7 +105,7 @@ a {
   left: 60px;
   background-color: white;
   list-style-type: none;
-  width:fit-content;
+  width: fit-content;
   height: fit-content;
   column-gap: 15px;
   max-height: 250px;
@@ -123,18 +123,18 @@ a {
   height: 80px;
 }
 .stats__item {
-   align-items: center;
-   font-family: Arial sans-serif;
-font-size: 30px;
+  align-items: center;
+  font-family: Arial sans-serif;
+  font-size: 30px;
 }
 .stats__title {
   margin-right: 5px;
- 
+
   color: #060a24;
   font-weight: lighter;
   line-height: 60px;
 }
 .stats__count {
-  color: #3E11CF;
+  color: #3e11cf;
   font-weight: 540;
 }
