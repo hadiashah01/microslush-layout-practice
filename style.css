@@ -122,6 +122,9 @@ a {
 .spacer {
   height: 80px;
 }
+.stats {
+  margin-bottom: 40px;
+}
 .stats__item {
   align-items: center;
   font-family: Arial sans-serif;
@@ -137,4 +140,21 @@ a {
 .stats__count {
   color: #3e11cf;
   font-weight: 540;
+}
+
+.service {
+  margin-bottom: 30px;
+  color: #6754e2;
+  font-family: "ProximaNovaR", Sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 36px;
+}
+.service__title {
+  color: #2f3534;
+}
+.service__description {
+  color: #636968;
+  font-family: Lato;
 }
