@@ -164,6 +164,8 @@ a {
 .service__content {
   min-width: 500px;
   max-width: 540px;
+  font-family: "ProximaNovaR", Sans-serif;
+  gap: 20px;
 }
 .service__img {
   width: 800px;
