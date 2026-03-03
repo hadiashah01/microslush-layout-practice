@@ -38,9 +38,16 @@ header {
 
   gap: 5em;
   padding-top: 1.25em;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+}
+.l-wrapper {
+  margin-inline: auto;
+}
+.section__inner {
+  margin-inline: auto;
 }
 .page {
-  padding-inline: 3em;
   background-image: url(https://microslush.com/wp-content/uploads/2022/09/image2-scaled.webp);
   background-size: cover;
   background-position: center;
