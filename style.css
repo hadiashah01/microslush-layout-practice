@@ -141,6 +141,7 @@ a {
 }
 .stats {
   margin-bottom: 40px;
+  gap: 3em;
 }
 .stats__item {
   align-items: center;
@@ -148,17 +149,15 @@ a {
   font-size: 30px;
 }
 .stats__title {
-  margin-right: 5px;
+  margin-right: 10px;
 
   color: #060a24;
   font-weight: lighter;
   line-height: 60px;
 }
 .stats__count {
-  color: #3e11cf;
-  font-weight: 540;
-}
-
+   color: #3e11cf;
+   font-weight: 540;}
 .service {
   margin-bottom: 30px;
   color: #6754e2;
