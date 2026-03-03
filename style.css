@@ -189,9 +189,14 @@ a {
   line-height: 36px;
 }
 .service__title {
+  font-size: 46px;
+  font-weight: 500;
   color: #2f3534;
 }
 .service__description {
   color: #636968;
   font-family: Lato;
+  line-height: 36px;
+  font-weight: 400;
+  font-size: 20px;
 }
