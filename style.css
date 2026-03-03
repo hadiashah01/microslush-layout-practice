@@ -42,6 +42,9 @@ header {
   flex-wrap: nowrap;
 }
 .services__wrapper {
+  padding-inline: 80px;
+  gap: 40px;
+
   align-items: flex-start;
 }
 
@@ -104,6 +107,7 @@ a {
 }
 .header__nav-item {
   align-items: center;
+  min-width: fit-content;
 }
 .nav-item-dropdown {
   display: none;
