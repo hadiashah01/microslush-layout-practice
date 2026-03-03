@@ -30,15 +30,11 @@ body {
 }
 .viewport {
   width: 100%;
-  height: 100vh;
-  overflow: hidden;
+  min-height: 100vh;
 }
 header {
   gap: 5em;
   padding-top: 1.25em;
-}
-.container {
-  padding-inline: 3em;
 }
 .page {
   padding-inline: 3em;
