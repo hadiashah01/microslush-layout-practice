@@ -42,6 +42,7 @@ header {
   flex-wrap: nowrap;
 }
 .services__wrapper {
+  /* border: 2px solid blueviolet; */
   padding-inline: 80px;
   gap: 40px;
 
@@ -50,6 +51,7 @@ header {
 
 .l-wrapper {
   margin-inline: auto;
+  /* border: 5px solid blue; */
   position: relative;
   right: 300px;
 }
@@ -156,8 +158,17 @@ a {
   line-height: 60px;
 }
 .stats__count {
-   color: #3e11cf;
-   font-weight: 540;}
+  color: #554afe;
+  font-weight: 600;
+}
+.service__content {
+  min-width: 500px;
+  max-width: 540px;
+}
+.service__img {
+  width: 800px;
+  height: 400px;
+}
 .service {
   margin-bottom: 30px;
   color: #6754e2;
