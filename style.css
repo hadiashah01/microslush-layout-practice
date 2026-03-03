@@ -41,8 +41,14 @@ header {
   justify-content: flex-start;
   flex-wrap: nowrap;
 }
+.services__wrapper {
+  align-items: flex-start;
+}
+
 .l-wrapper {
   margin-inline: auto;
+  position: relative;
+  right: 300px;
 }
 .section__inner {
   margin-inline: auto;
