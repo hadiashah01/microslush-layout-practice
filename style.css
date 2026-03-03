@@ -195,8 +195,11 @@ a {
 }
 .service__description {
   color: #636968;
+  width: 100%;
   font-family: Lato;
   line-height: 36px;
   font-weight: 400;
   font-size: 20px;
+  margin-block: 10px;
+  max-width: 510px;
 }
