@@ -203,3 +203,15 @@ a {
   margin-block: 10px;
   max-width: 510px;
 }
+.service__talk {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1em;
+}
+svg {
+  fill:white;
+  position: relative;
+
+  top: 4px;
+}
