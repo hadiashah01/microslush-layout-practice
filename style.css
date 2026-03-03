@@ -208,10 +208,11 @@ a {
   font-weight: 700;
   font-size: 25px;
   line-height: 1em;
+  min-width: 80px;
+  height: 40px;
+  align-items: center;
 }
 svg {
-  fill:white;
   position: relative;
-
   top: 4px;
 }
