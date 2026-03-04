@@ -133,6 +133,7 @@ a {
   font-family: "Poppins", sans-serif;
   padding-inline: 20px;
   padding-block: 10px;
+  width: max-content;
 }
 .nav-item-dropdown a {
   color: #051441;
