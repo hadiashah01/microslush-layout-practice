@@ -176,7 +176,6 @@ a {
   margin-bottom: 10px;
 }
 .service__img img {
-
   max-width: 100%;
   max-height: 100%;
   min-width: 500px;
@@ -219,13 +218,28 @@ svg {
   position: relative;
   top: 4px;
 }
-.chat-btn{
-  width:50px;
+.chat-btn {
+  width: 55px;
   height: 50px;
   position: fixed;
-  bottom:30px;
-  right:30px;
+  bottom: 30px;
+  right: 30px;
   border-radius: 50%;
   border: transparent;
-  background-color:transparent;
+  background-color: transparent;
+}
+.text-with-btn {
+  background-color: white;
+  color: #333333;
+  position: fixed;
+  bottom: 30px;
+  right: 90px;
+  border-radius: 10px;
+  font-size: 0.75em;
+  padding-inline: 12px;
+  padding-block: 5px;
+}
+.text-with-btn > p {
+  min-width: 1em;
+  font-size: 0.75em;
 }
