@@ -282,3 +282,9 @@ hr {
 .service__container {
   gap: 30px;
 }
+
+.offer {
+  color:#1a61ff;
+  font-weight: 600;
+  font-size: 1.2em;
+}
