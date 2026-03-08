@@ -247,6 +247,7 @@ svg {
 }
 .container__img {
   height: 30px;
+  margin-bottom: 5px;
 }
 
 
@@ -259,10 +260,16 @@ svg {
   font-weight: light;
   color: #677294;
   font-size: 14px;
-  
+  line-height:22px;
 }
 
-
+.container {
+  padding: 25px;
+  padding-right: 40px;
+  width: 28%;
+  height: 230px;
+  margin-bottom: 20px;
+}
 
 .service__container {
   gap: 30px;
