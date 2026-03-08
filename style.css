@@ -302,3 +302,12 @@ hr {
   font-weight: 400;
   margin-block: 40px;
 }
+.tech-stack__heading {
+  font:48px Poppins ,Sans-serif;
+  color: #2c2c51;
+  font-weight: 600;
+}
+.wrapper>p {
+  font:20px "ProximaNovaR", "Sans-serif";
+  color: #636968;
+}
