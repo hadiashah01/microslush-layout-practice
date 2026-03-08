@@ -245,6 +245,12 @@ svg {
   min-width: 1em;
   font-size: 0.75em;
 }
+
+hr {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  margin-inline: 80px;
+}
 .container__img {
   height: 30px;
   margin-bottom: 5px;
