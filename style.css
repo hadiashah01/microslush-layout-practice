@@ -245,3 +245,25 @@ svg {
   min-width: 1em;
   font-size: 0.75em;
 }
+.container__img {
+  height: 30px;
+}
+
+
+.container > h3 {
+  font-size: 18px;
+  color: #051441;
+}
+
+.container > p {
+  font-weight: light;
+  color: #677294;
+  font-size: 14px;
+  
+}
+
+
+
+.service__container {
+  gap: 30px;
+}
