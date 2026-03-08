@@ -303,11 +303,16 @@ hr {
   margin-block: 40px;
 }
 .tech-stack__heading {
-  font:48px Poppins ,Sans-serif;
+  font:40px Poppins ,Sans-serif;
   color: #2c2c51;
   font-weight: 600;
+  margin-bottom: 15px;
 }
 .wrapper>p {
   font:20px "ProximaNovaR", "Sans-serif";
   color: #636968;
+}
+.wrapper{
+  align-items: center;
+  margin-bottom: 15px;
 }
