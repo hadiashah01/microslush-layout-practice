@@ -311,6 +311,8 @@ hr {
 .wrapper>p {
   font:20px "ProximaNovaR", "Sans-serif";
   color: #636968;
+  max-width: 680px;
+  text-align: center;
 }
 .wrapper{
   align-items: center;
