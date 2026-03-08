@@ -264,8 +264,10 @@ svg {
 }
 
 .container {
+  font-family: "Lato", sans-serif;
   padding: 25px;
   padding-right: 40px;
+  border: 1px solid #d3cece;
   width: 28%;
   height: 230px;
   margin-bottom: 20px;
