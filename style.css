@@ -205,7 +205,7 @@ a {
   max-width: 510px;
 }
 .service__talk {
-  font-family: "Lato", sans-serif;
+  font-family: "ProximaNovaR", Sans-serif;
   font-weight: 700;
   font-size: 25px;
   line-height: 1em;
@@ -287,7 +287,7 @@ hr {
   color: #060a24;
   font-family: "Lato", sans-serif;
   font-weight: 300;
-  margin-inline: 550px;
+  margin-inline: 21em;
   font-size: 0.8em;
   margin-bottom: 50px;
 }
@@ -295,4 +295,10 @@ hr {
   color:#1a61ff;
   font-weight: 600;
   font-size: 1.2em;
+}
+.view__services {
+  margin-inline:auto; 
+  font-size: 1.2em;
+  font-weight: 400;
+  margin-block: 40px;
 }
