@@ -321,10 +321,11 @@ hr {
 .tech>img {
   width: 70px;
   height: 60px;
+  margin-bottom: 20px;
 }
 
 .tech {
-  height: 100px;
+  height: 80px;
   width: 200px;
   color: #051441;
   align-items: center;
@@ -336,9 +337,10 @@ hr {
 }
 
 .wrapper {
-  flex-wrap: wrap; ; 
+  flex-wrap: wrap;
   max-width:1400px;
-  min-width: 1400px;
-  column-gap:20px;
+  min-width: 1300px;
+  column-gap:25px;
   margin-inline:auto ;
+  margin-bottom:80px;
 }
