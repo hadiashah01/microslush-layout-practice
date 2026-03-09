@@ -344,3 +344,13 @@ hr {
   margin-inline:auto ;
   margin-bottom:80px;
 }
+.wrap{
+  color: black;
+  align-items: center;
+}
+.wrap>h2 {
+  font-size: 31px;
+}
+.wrap>p {
+  font-size: 16px;
+}
