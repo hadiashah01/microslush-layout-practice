@@ -352,10 +352,12 @@ hr {
 .wrap>h2 {
   font-size: 31px;
   padding-bottom: 15px;
+  color: #313131;
 }
 .wrap>p {
   padding-block: 40px;
   font-size: 16px;
+  color: #677294;
 }
 .book-appointment {
   margin-bottom: 40px;
