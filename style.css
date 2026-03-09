@@ -324,6 +324,8 @@ hr {
 }
 
 .tech {
+  height: 100px;
+  width: 200px;
   color: #051441;
   align-items: center;
   margin-bottom: 5px;
