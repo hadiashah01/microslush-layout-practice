@@ -287,7 +287,7 @@ hr {
   color: #060a24;
   font-family: "Lato", sans-serif;
   font-weight: 300;
-  margin-inline: 21em;
+  margin-inline: 18em;
   font-size: 0.8em;
   margin-bottom: 50px;
 }
@@ -308,13 +308,16 @@ hr {
   font-weight: 600;
   margin-bottom: 15px;
 }
-.wrapper>p {
-  font:20px "ProximaNovaR", "Sans-serif";
+.content-wrap>p {
+  font: 20px / 35px "ProximaNovaR", "Sans-serif";
   color: #636968;
   max-width: 680px;
   text-align: center;
 }
-.wrapper{
+.content-wrap{
   align-items: center;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
+}
+.tech {
+  margin-bottom: 5px;
 }
