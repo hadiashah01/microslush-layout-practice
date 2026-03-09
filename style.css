@@ -318,6 +318,13 @@ hr {
   align-items: center;
   margin-bottom: 30px;
 }
+.tech>img {
+  width: 70px;
+  height: 60px;
+}
+
 .tech {
+  color: #051441;
+  align-items: center;
   margin-bottom: 5px;
 }
