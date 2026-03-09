@@ -328,5 +328,14 @@ hr {
   width: 200px;
   color: #051441;
   align-items: center;
-  margin-bottom: 5px;
+}
+
+.tech >p {
+  font: 16px "Lato";
+  color: #677294;
+}
+
+.wrapper {
+  flex-wrap: wrap; 
+  column-gap:20px;
 }
