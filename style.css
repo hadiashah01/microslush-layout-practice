@@ -368,3 +368,21 @@ hr {
 .book-appointment >a{
  font-size: 15px;
 }
+.wrap__p{
+padding-bottom: 15px;
+padding-block: 40px;
+  font-size: 16px;
+  color: #677294;
+}
+.wrap__heading{
+padding-bottom:  40px;
+padding-top: 55px;
+font-size: 31px;
+font-family: sans-serif;
+  padding-bottom: 15px;
+  color: #060a24;
+}
+.wrap2{
+  color: black;
+  align-items: center;
+}
