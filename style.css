@@ -386,3 +386,38 @@ font-family: sans-serif;
   color: black;
   align-items: center;
 }
+footer>h2{
+padding-top: 55px;
+font-size: 40px;
+font-family: sans-serif;
+  font-weight: 500;
+  color: #051441;
+  line-height: 1.5em;
+}
+footer>p {
+ padding-top: 25px;
+padding-bottom: 40px;
+max-width: 410px;
+  font-size: 15px;
+  color: #677294;
+  text-align: center;
+
+}
+input{
+  padding-block: 18px;
+  padding-inline-start: 8px;
+  padding-inline-end: 300px;
+font-size: 15px;
+border:1px solid #bebfc4;
+border-radius: 5px;
+margin-top: 30px;
+margin-bottom: 20px;
+}
+footer>button{
+  border:1px solid #1a61ff ;
+  color: white;
+  width: 129px;
+  height: 40px;
+  font-weight: 500;
+  font-size: 15px;
+}
