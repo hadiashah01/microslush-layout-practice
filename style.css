@@ -421,3 +421,28 @@ footer>button{
   font-weight: 500;
   font-size: 15px;
 }
+.contact__info{
+  gap: 200px;
+  align-items: center;
+  margin-bottom: 45px;
+  margin-top: 90px;
+}
+
+.img>img{
+  width: 110px;
+border: .1em double rgb(78, 82, 107);
+margin-bottom: 20px;
+
+}
+.US_contact,
+.UK_contact,
+.PK_contact{
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.img__title>p{
+font-size: 20px;
+font-weight: 600;
+
+}
