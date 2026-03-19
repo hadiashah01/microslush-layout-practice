@@ -446,3 +446,11 @@ font-size: 20px;
 font-weight: 600;
 
 }
+.Contact-footer__heading{
+  color:#3f4451 ;
+  font-size: 15px;
+}
+.Contact-footer> p,.footer{
+  color:#051441 ;
+  font-size: 15px;
+}
