@@ -446,11 +446,21 @@ font-size: 20px;
 font-weight: 600;
 
 }
+.main-footer{
+  gap: 90px;
+  padding-top: 60px;
+  background-color: #fbfbfd;
+}
 .Contact-footer__heading{
   color:#3f4451 ;
   font-size: 15px;
+  margin-block: 30px;
+  font-size: 18px;
 }
 .Contact-footer> p,.footer{
+  margin-bottom: 15px;
   color:#051441 ;
   font-size: 15px;
+  line-height: 20px;
 }
+
