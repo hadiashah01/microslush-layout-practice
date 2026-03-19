@@ -447,7 +447,7 @@ font-weight: 600;
 
 }
 .main-footer{
-  gap: 90px;
+  gap: 50px;
   padding-top: 60px;
   background-color: #fbfbfd;
 }
@@ -461,6 +461,11 @@ font-weight: 600;
   margin-bottom: 15px;
   color:#051441 ;
   font-size: 15px;
-  line-height: 20px;
+}
+.Contact-footer{
+  padding-left: 140px;
+}
+.Contact-footer>.Contact-footer__heading{
+  margin-bottom: 15px;
 }
 
