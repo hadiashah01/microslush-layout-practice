@@ -522,7 +522,7 @@ footer > button {
 }
 
 .projects__imgs>img{
-   flex-basis: 30%;
+  max-width:400px;
    height: 40%;
 }
 .projects__imgs{
