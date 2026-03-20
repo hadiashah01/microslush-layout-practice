@@ -481,7 +481,7 @@ footer > button {
   max-width: 1200px;
   margin-inline: auto;
   line-height: 40px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 .testimonials > h3 {
   color: #060a24;
@@ -494,26 +494,29 @@ footer > button {
 }
 .testimonials__p {
   color: #212529;
-  font-size: 17px;
-  max-width: 440px;
+  font-size: 18px;
+ min-width: 300px;
 }
 .testimonials__div {
   color: #2f3534;
-  font-size: 18px;
+  font-size: 19px;
   margin-top: 40px;
   line-height: 10px;
   font-weight: 700;
 }
 .testimonials__country {
   color: #636968;
-  font-size: 14px;
+  font-size: 15px;
 }
 .testimonials2__img,
 .testimonials1__img {
-  margin-right: 25px;
-  margin-left: 40px;
+  margin-inline: 25px;
 }
 .testimonials1__img > img,
-.testimonials2_img > img {
+.testimonials2__img > img {
   width: 70px;
+}
+.divider{
+  height: 20px;
+  border-top: 1px solid #000000;
 }
