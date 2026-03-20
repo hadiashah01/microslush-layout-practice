@@ -556,3 +556,7 @@ color: #636968;
 font: 12px "ProximaNovaB", sans-serif;
 font-weight: 600;
 }
+.gallery__img>img{
+  max-width: 200px;
+  border-radius: 25px;
+}
