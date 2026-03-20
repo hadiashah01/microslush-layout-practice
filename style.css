@@ -523,18 +523,23 @@ footer > button {
 
 .projects__imgs>img{
   max-width:400px;
+   height: 40%;
 }
 .featured-projects{
   background-color: #0c1430;
   margin-inline: auto;
   align-items: center;
+  padding-bottom: 60px;
 }
 .featured-projects>h4{
 font-family: "Lato", Sans-serif;
     font-size: 25px;
     font-weight: 600;
+    margin-top: 60px;
 }
 .featured-projects>p{
 font-family: "Lato", Sans-serif;
     font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 40px;
 }
