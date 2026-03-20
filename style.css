@@ -379,7 +379,7 @@ hr {
 }
 .wrap__heading {
   padding-bottom: 40px;
-  padding-top: 55px;
+  padding-top: 90px;
   font-size: 31px;
   font-family: sans-serif;
   padding-bottom: 15px;
@@ -561,11 +561,14 @@ footer > button {
   font-weight: 600;
 }
 .gallery__img > img {
-  max-width: 200px;
+  max-width: 190px;
   border-radius: 25px;
 }
 .gallery{
-  gap: 45px;
+  gap: 35px;
+  padding-top: 50px;
+  padding-bottom: 160px;
+
 }
 .gallery__img:nth-child(2),
 .gallery__img:nth-child(4)
