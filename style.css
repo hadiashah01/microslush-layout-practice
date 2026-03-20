@@ -476,3 +476,13 @@ footer > button {
 .copyright {
   font-size: 15px;
 }
+.testimonials {
+  font-family: sans-serif;
+}
+.testimonials > h3 {
+  color: #060a24;
+  font-size: 25px;
+}
+.clients {
+  color: #554afe;
+}
