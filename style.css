@@ -546,17 +546,30 @@ footer > button {
   margin-top: 20px;
   margin-bottom: 40px;
 }
-.gallery__img>h3{
-color: #2f3534;
-font: 20px "ProximaNovaB", sans-serif;
-font-weight: 600;
+.gallery__img > h3 {
+  color: #2f3534;
+  font:
+    20px "ProximaNovaB",
+    sans-serif;
+  font-weight: 600;
 }
-.gallery__img>p{
-color: #636968;
-font: 12px "ProximaNovaB", sans-serif;
-font-weight: 600;
+.gallery__img > p {
+  color: #636968;
+  font:
+    12px "ProximaNovaB",
+    sans-serif;
+  font-weight: 600;
 }
-.gallery__img>img{
+.gallery__img > img {
   max-width: 200px;
   border-radius: 25px;
+}
+.gallery{
+  gap: 45px;
+}
+.gallery__img:nth-child(2),
+.gallery__img:nth-child(4)
+{
+  position: relative;
+  top: 60px;
 }
