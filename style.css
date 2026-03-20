@@ -552,13 +552,15 @@ footer > button {
     20px "ProximaNovaB",
     sans-serif;
   font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 6px;
 }
 .gallery__img > p {
   color: #636968;
   font:
-    12px "ProximaNovaB",
+    15px "ProximaNovaB",
     sans-serif;
-  font-weight: 600;
+  font-weight: 500;
 }
 .gallery__img > img {
   max-width: 190px;
@@ -575,4 +577,7 @@ footer > button {
 {
   position: relative;
   top: 60px;
+}
+.gallery__img{
+  align-items: center;
 }
