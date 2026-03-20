@@ -495,7 +495,7 @@ footer > button {
 .testimonials__p {
   color: #212529;
   font-size: 18px;
- min-width: 300px;
+  min-width: 300px;
 }
 .testimonials__div {
   color: #2f3534;
@@ -516,33 +516,33 @@ footer > button {
 .testimonials2__img > img {
   width: 70px;
 }
-.divider{
+.divider {
   height: 20px;
   border-top: 1px solid #000000;
 }
 
-.projects__imgs>img{
-  max-width:400px;
-   height: 40%;
+.projects__imgs > img {
+  max-width: 400px;
+  height: 40%;
 }
-.projects__imgs{
+.projects__imgs {
   flex-wrap: wrap;
 }
-.featured-projects{
+.featured-projects {
   background-color: #0c1430;
   margin-inline: auto;
   align-items: center;
   padding-bottom: 60px;
 }
-.featured-projects>h4{
-font-family: "Lato", Sans-serif;
-    font-size: 25px;
-    font-weight: 600;
-    margin-top: 60px;
+.featured-projects > h4 {
+  font-family: "Lato", Sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 60px;
 }
-.featured-projects>p{
-font-family: "Lato", Sans-serif;
-    font-size: 15px;
-    margin-top: 20px;
-    margin-bottom: 40px;
+.featured-projects > p {
+  font-family: "Lato", Sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
