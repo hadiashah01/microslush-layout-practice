@@ -478,6 +478,9 @@ footer > button {
 }
 .testimonials {
   font-family: sans-serif;
+  max-width: 1200px;
+  margin-inline: auto;
+  line-height: 40px;
 }
 .testimonials > h3 {
   color: #060a24;
@@ -485,4 +488,17 @@ footer > button {
 }
 .clients {
   color: #554afe;
+}
+.testimonials__p{
+color: #212529;
+font-size: 19px;
+max-width:500px;
+}
+.testimonials__div{
+color: #2f3534;
+font-size: 20px;
+}
+.testimonials__country{
+color: #636968;
+font-size: 16px;
 }
