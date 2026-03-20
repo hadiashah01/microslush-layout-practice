@@ -492,13 +492,22 @@ footer > button {
 .testimonials__p{
 color: #212529;
 font-size: 19px;
-max-width:500px;
+min-width:500px;
 }
 .testimonials__div{
 color: #2f3534;
 font-size: 20px;
+margin-top: 40px;
+line-height: 10px;
+font-weight: 700;
 }
 .testimonials__country{
 color: #636968;
 font-size: 16px;
+}
+.testimonials2__img,
+.testimonials1__img
+{
+  margin-right: 25px;
+  margin-left: 40px;
 }
