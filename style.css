@@ -522,8 +522,11 @@ footer > button {
 }
 
 .projects__imgs>img{
-  max-width:400px;
+   flex-basis: 30%;
    height: 40%;
+}
+.projects__imgs{
+  flex-wrap: wrap;
 }
 .featured-projects{
   background-color: #0c1430;
