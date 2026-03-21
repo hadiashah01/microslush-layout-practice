@@ -573,7 +573,7 @@ footer > button {
   gap: 35px;
   padding-top: 50px;
   padding-bottom: 160px;
-
+background-color: #f4f5fa;
 }
 .gallery__img:nth-child(2),
 .gallery__img:nth-child(4)
