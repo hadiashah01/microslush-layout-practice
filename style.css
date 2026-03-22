@@ -584,3 +584,12 @@ background-color: #f4f5fa;
 .gallery__img{
   align-items: center;
 }
+.social-links>a>img{
+  width: 20px;
+}
+.footer-bottom{
+  align-items: center;
+}
+.social-links{
+  gap: 30px;
+}
