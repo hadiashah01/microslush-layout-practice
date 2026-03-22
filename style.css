@@ -453,15 +453,17 @@ footer > button {
   gap: 50px;
   padding-top: 60px;
   background-color: #fbfbfd;
+  width: 100vw;
+  border-bottom: .5px solid rgba(179, 178, 178, 0.2);
 }
-.Contact-footer__heading {
+.Contact-footer__heading,.Contact-footer__heading>a {
   color: #3f4451;
   font-size: 15px;
   margin-block: 30px;
   font-size: 18px;
 }
 .Contact-footer > p,
-.footer {
+.footer, .footer>a {
   margin-bottom: 15px;
   color: #051441;
   font-size: 15px;
