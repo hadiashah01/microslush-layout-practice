@@ -122,13 +122,14 @@ a {
   flex-wrap: wrap;
   position: absolute;
   top: 100%;
-  left: 60px;
+  left: 150px;
   background-color: white;
   list-style-type: none;
   width: fit-content;
   height: fit-content;
   column-gap: 15px;
-  max-height: 250px;
+  max-height: 320px;
+  row-gap: 8px;
   font-size: 0.8em;
   font-weight: 100;
   font-family: "Poppins", sans-serif;
