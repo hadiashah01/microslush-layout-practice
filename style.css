@@ -385,7 +385,7 @@ hr {
   padding-bottom: 15px;
   color: #060a24;
 }
-.blue{
+.blue {
   color: #554afe;
 }
 .wrap2 {
@@ -569,42 +569,41 @@ footer > button {
   max-width: 190px;
   border-radius: 25px;
 }
-.gallery{
+.gallery {
   gap: 35px;
   padding-top: 50px;
   padding-bottom: 160px;
-background-color: #f4f5fa;
+  background-color: #f4f5fa;
 }
 .gallery__img:nth-child(2),
-.gallery__img:nth-child(4)
-{
+.gallery__img:nth-child(4) {
   position: relative;
   top: 60px;
 }
-.gallery__img{
+.gallery__img {
   align-items: center;
 }
-.social-links>a>img{
+.social-links > a > img {
   width: 20px;
   height: 18px;
 }
-.footer-bottom{
+.footer-bottom {
   align-items: center;
   padding-block: 20px;
   gap: 670px;
 }
-.social-links{
+.social-links {
   gap: 16px;
 }
-.social-links>a{
-background-color: #ebeef5;
-padding: 16px;
-border-radius: 50%;
+.social-links > a {
+  background-color: #ebeef5;
+  padding: 16px;
+  border-radius: 50%;
 }
 .work_with-us {
   background-image: url(https://microslush.com/wp-content/uploads/2022/09/image-2-1-1-scaled.webp);
   background-size: cover;
-  background-position:center;
+  background-position: center;
   background-color: #000000;
 }
 .wrap1 {
@@ -613,7 +612,7 @@ border-radius: 50%;
   margin: auto;
   padding: 110px;
   height: 80vh;
-  background-color:rgba(15, 13, 13, 0.5)
+  background-color: rgba(15, 13, 13, 0.5);
 }
 .wrap1 > h6 {
   margin-top: 80px;
