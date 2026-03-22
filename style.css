@@ -601,3 +601,9 @@ background-color: #ebeef5;
 padding: 16px;
 border-radius: 50%;
 }
+.work_with-us {
+  background-image: url(https://microslush.com/wp-content/uploads/2022/09/image-2-1-1-scaled.webp);
+  background-size: cover;
+  background-position:center;
+  background-color: #000000;
+}
