@@ -625,3 +625,10 @@ footer > button {
   position: relative;
   right: 7px;
 }
+.work{
+  padding-inline: 45px;
+  padding-block: 5px;
+  background-color: #1a61ff;
+  border: 1px solid #1a61ff;
+  border-radius: 3px;
+}
