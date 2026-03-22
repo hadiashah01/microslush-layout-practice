@@ -626,9 +626,19 @@ footer > button {
   right: 7px;
 }
 .work{
-  padding-inline: 45px;
+  padding-inline: 12px;
   padding-block: 5px;
   background-color: #1a61ff;
   border: 1px solid #1a61ff;
   border-radius: 3px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.work > a {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+.work > svg {
+  margin-bottom: 8px;
 }
