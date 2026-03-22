@@ -607,3 +607,16 @@ border-radius: 50%;
   background-position:center;
   background-color: #000000;
 }
+.wrap1 {
+  justify-content: center;
+  color: white;
+}
+.wrap1 > h6 {
+  margin-top: 80px;
+  font-weight: 500;
+}
+.wrap1 > h2 {
+  max-width: 700px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
