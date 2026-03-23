@@ -46,8 +46,9 @@ header {
   /* border: 2px solid blueviolet; */
   padding-inline: 80px;
   gap: 40px;
-
-  align-items: flex-start;
+  margin-inline: auto;
+  align-items: center;
+  max-width: 1400px;
 }
 
 .l-wrapper {
@@ -455,16 +456,18 @@ footer > button {
   padding-top: 60px;
   background-color: #fbfbfd;
   width: 100vw;
-  border-bottom: .5px solid rgba(179, 178, 178, 0.2);
+  border-bottom: 0.5px solid rgba(179, 178, 178, 0.2);
 }
-.Contact-footer__heading,.Contact-footer__heading>a {
+.Contact-footer__heading,
+.Contact-footer__heading > a {
   color: #3f4451;
   font-size: 15px;
   margin-block: 30px;
   font-size: 18px;
 }
 .Contact-footer > p,
-.footer, .footer>a {
+.footer,
+.footer > a {
   margin-bottom: 15px;
   color: #051441;
   font-size: 15px;
@@ -609,14 +612,18 @@ footer > button {
   background-position: center;
   background-color: #000000;
 }
+.bg-black {
+  background-color: rgba(15, 13, 13, 0.5);
+}
 .wrap1 {
+  max-width: 1400px;
   justify-content: center;
   color: white;
   margin: auto;
   padding: 110px;
   height: 80vh;
-  background-color: rgba(15, 13, 13, 0.5);
 }
+
 .wrap1 > h6 {
   margin-top: 80px;
   font-weight: 500;
@@ -628,7 +635,7 @@ footer > button {
   position: relative;
   right: 7px;
 }
-.work{
+.work {
   padding-inline: 12px;
   padding-block: 5px;
   background-color: #1a61ff;
