@@ -351,21 +351,22 @@ hr {
 }
 .wrap {
   color: black;
-  background-color: #e3f5ff;
+  background-color: rgba(208, 237, 254, 0.5);;
   align-items: center;
 }
 .wrap > h2 {
   font-size: 31px;
   padding-bottom: 15px;
-  color: #313131;
+  color: #3d3b3b;
 }
 .wrap > p {
-  padding-block: 40px;
-  font-size: 16px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  font-size: 14px;
   color: #677294;
 }
 .book-appointment {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   border: transparent;
   width: 160px;
   height: 39px;
