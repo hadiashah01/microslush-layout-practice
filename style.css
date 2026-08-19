@@ -34,7 +34,7 @@ body {
   min-height: 100vh;
 }
 header {
-  position: fixed;
+  position: absolute;
   top: 0px;
 
   gap: 5em;
@@ -43,7 +43,6 @@ header {
   flex-wrap: nowrap;
 }
 .services__wrapper {
-  /* border: 2px solid blueviolet; */
   padding-inline: 80px;
   gap: 40px;
   margin-inline: auto;
@@ -53,7 +52,6 @@ header {
 
 .l-wrapper {
   margin-inline: auto;
-  /* border: 5px solid blue; */
   position: relative;
   right: 300px;
 }
